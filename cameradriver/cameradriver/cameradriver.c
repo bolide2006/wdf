@@ -110,9 +110,33 @@ NTSTATUS StartCameraStream(PDEVICE_CONTEXT deviceContext) {
     return status;
 }
 
+VOID CheckLongAndUlongSize() {
+    KdPrint(("Size of BYTE: %zu bytes\n", sizeof(BYTE)));
+    KdPrint(("Size of CHAR: %zu bytes\n", sizeof(CHAR)));
+    KdPrint(("Size of UCHAR: %zu bytes\n", sizeof(UCHAR)));
+    KdPrint(("Size of SHORT: %zu bytes\n", sizeof(SHORT)));
+    KdPrint(("Size of USHORT: %zu bytes\n", sizeof(USHORT)));
+    //KdPrint(("Size of INT: %zu bytes\n", sizeof(INT)));
+    //KdPrint(("Size of UINT: %zu bytes\n", sizeof(UINT)));
+    KdPrint(("Size of INT32: %zu bytes\n", sizeof(INT32)));
+    KdPrint(("Size of UINT32: %zu bytes\n", sizeof(UINT32)));
+    KdPrint(("Size of INT64: %zu bytes\n", sizeof(INT64)));
+    KdPrint(("Size of UINT64: %zu bytes\n", sizeof(UINT64)));
+    KdPrint(("Size of LONG: %zu bytes\n", sizeof(LONG)));
+    KdPrint(("Size of ULONG: %zu bytes\n", sizeof(ULONG)));
+    //KdPrint(("Size of WORD: %zu bytes\n", sizeof(WORD)));
+    //KdPrint(("Size of DWORD: %zu bytes\n", sizeof(DWORD)));
+    KdPrint(("Size of LARGE_INTEGER: %zu bytes\n", sizeof(LARGE_INTEGER)));
+    KdPrint(("Size of BOOLEAN: %zu bytes\n", sizeof(BOOLEAN)));
+    KdPrint(("Size of WCHAR: %zu bytes\n", sizeof(WCHAR)));
+    KdPrint(("Size of UNICODE_STRING: %zu bytes\n", sizeof(UNICODE_STRING)));
+}
+
 VOID StopCameraStream(PDEVICE_CONTEXT deviceContext) {
     UNREFERENCED_PARAMETER(deviceContext);
     PAGED_CODE();
+
+    CheckLongAndUlongSize();
     KdPrint(("CameraDriver: Camera stream stopped\n"));
 }
 
@@ -412,7 +436,7 @@ VOID CameraEvtIoDeviceControl(
         if (NT_SUCCESS(status)) {
             KdPrint(("Firmware loaded successfully, size: %u bytes\n", firmwareSize));
             // 使用固件数据...
-            PrintHex((PCHAR)firmwareBuffer, firmwareSize);
+            // PrintHex((PCHAR)firmwareBuffer, firmwareSize);
             ExFreePoolWithTag(firmwareBuffer, 'FrmW');
         } else {
             KdPrint(("Failed to load firmware with status 0x%x\n", status));
