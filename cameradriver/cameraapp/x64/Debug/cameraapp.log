@@ -1,0 +1,6 @@
+﻿  cameraapp.c
+C:\D_Drive\00_VPU\WDF\cameradriver\cameraapp\cameraapp.c(137,9): warning C4133: 'function': incompatible types - from 'char [1024]' to 'STRSAFE_LPWSTR'
+C:\D_Drive\00_VPU\WDF\cameradriver\cameraapp\cameraapp.c(137,9): warning C4133: 'function': incompatible types - from 'char [52]' to 'STRSAFE_LPCWSTR'
+C:\D_Drive\00_VPU\WDF\cameradriver\cameraapp\cameraapp.c(163,9): warning C4133: 'function': incompatible types - from 'char [1024]' to 'STRSAFE_LPWSTR'
+C:\D_Drive\00_VPU\WDF\cameradriver\cameraapp\cameraapp.c(163,9): warning C4133: 'function': incompatible types - from 'char [51]' to 'STRSAFE_LPCWSTR'
+  cameraapp.vcxproj -> C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\cameraapp.exe

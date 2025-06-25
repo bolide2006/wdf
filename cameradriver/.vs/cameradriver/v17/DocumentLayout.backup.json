@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|solutionrelative:cameradriver\\cameradriver.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|solutionrelative:cameradriver\\cameradriver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B5041-D483-4734-AB2F-13F4DA866D67}|cameraapp\\cameraapp.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameraapp\\cameraapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{637B5041-D483-4734-AB2F-13F4DA866D67}|cameraapp\\cameraapp.vcxproj|solutionrelative:cameraapp\\cameraapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\public.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|solutionrelative:cameradriver\\public.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.inf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}|cameradriver\\cameradriver.vcxproj|solutionrelative:cameradriver\\cameradriver.inf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cameradriver.inf",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.inf",
+              "RelativeDocumentMoniker": "cameradriver\\cameradriver.inf",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.inf",
+              "RelativeToolTip": "cameradriver\\cameradriver.inf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002933|",
+              "WhenOpened": "2025-06-23T06:15:58.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "public.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\public.h",
+              "RelativeDocumentMoniker": "cameradriver\\public.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\public.h",
+              "RelativeToolTip": "cameradriver\\public.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T11:27:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cameradriver.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.h",
+              "RelativeDocumentMoniker": "cameradriver\\cameradriver.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.h",
+              "RelativeToolTip": "cameradriver\\cameradriver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T09:43:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cameradriver.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.c",
+              "RelativeDocumentMoniker": "cameradriver\\cameradriver.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameradriver\\cameradriver.c",
+              "RelativeToolTip": "cameradriver\\cameradriver.c",
+              "ViewState": "AgIAAM4BAAAAAAAAAAArwNYBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-20T09:43:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cameraapp.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameraapp\\cameraapp.c",
+              "RelativeDocumentMoniker": "cameraapp\\cameraapp.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\cameradriver\\cameraapp\\cameraapp.c",
+              "RelativeToolTip": "cameraapp\\cameraapp.c",
+              "ViewState": "AgIAADABAAAAAAAAAAArwEUBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-20T11:12:17.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

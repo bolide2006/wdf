@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cameradriver", "cameradriver\cameradriver.vcxproj", "{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cameraapp", "cameraapp\cameraapp.vcxproj", "{637B5041-D483-4734-AB2F-13F4DA866D67}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "installer", "installer\installer.vcxproj", "{65766586-1F65-7BE7-03C6-7A9D3DD79654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|x64.ActiveCfg = Debug|x64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|x64.Build.0 = Debug|x64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Debug|x64.Deploy.0 = Debug|x64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|ARM64.Build.0 = Release|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|x64.ActiveCfg = Release|x64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|x64.Build.0 = Release|x64
+		{418D84ED-F37A-E7C4-3FF5-A48E71CB3A7C}.Release|x64.Deploy.0 = Release|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Debug|ARM64.ActiveCfg = Debug|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Debug|ARM64.Build.0 = Debug|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Debug|x64.ActiveCfg = Debug|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Debug|x64.Build.0 = Debug|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Release|ARM64.ActiveCfg = Release|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Release|ARM64.Build.0 = Release|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Release|x64.ActiveCfg = Release|x64
+		{637B5041-D483-4734-AB2F-13F4DA866D67}.Release|x64.Build.0 = Release|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|ARM64.Build.0 = Debug|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|x64.ActiveCfg = Debug|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|x64.Build.0 = Debug|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Debug|x64.Deploy.0 = Debug|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|ARM64.ActiveCfg = Release|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|ARM64.Build.0 = Release|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|ARM64.Deploy.0 = Release|ARM64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|x64.ActiveCfg = Release|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|x64.Build.0 = Release|x64
+		{65766586-1F65-7BE7-03C6-7A9D3DD79654}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3F43F2-7060-4DEB-B212-B3C43F036ADF}
+	EndGlobalSection
+EndGlobal

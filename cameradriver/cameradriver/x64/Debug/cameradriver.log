@@ -1,0 +1,23 @@
+﻿  Building 'cameradriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\cameradriver.inf
+  Stamping [Version] section with DriverVer=06/24/2025,19.14.12.555
+  cameradriver.c
+  cameradriver.vcxproj -> C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\cameradriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\cameradriver.sys
+  
+  Driver is 'Universal'.
+  ..........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\cameradriver\cameradriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\cameradriver\cameradriver.cat
+  

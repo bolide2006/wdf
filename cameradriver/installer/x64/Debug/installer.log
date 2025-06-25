@@ -1,0 +1,15 @@
+﻿  Building 'installer' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\installer\cameradriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\D_Drive\00_VPU\WDF\cameradriver\x64\Debug\installer\cameradriver.cat
+  
