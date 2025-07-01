@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Interrupt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Device.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Driver.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Public.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Public.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Registers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_DRIVE\\00_VPU\\WDF\\WDFVPU\\WDFVPU\\ARM64\\DEBUG\\INTERRUPT.TMH||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:WDFVPU\\ARM64\\DEBUG\\INTERRUPT.TMH||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ARM64\\Debug\\Registers.tmh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wdfvpu\\ARM64\\Debug\\Registers.tmh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Interrupt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\Registers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\SHARED\\WMISTR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\wdfvpu.inf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\wdfvpu.inf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6429D0BB-6EC3-AB18-77FE-9F8B1D09B689}|wdfvpu\\wdfvpu.vcxproj|solutionrelative:wdfvpu\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trace.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Trace.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Trace.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Trace.h",
+              "RelativeToolTip": "wdfvpu\\Trace.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAHoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T13:08:29.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registers.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.c",
+              "RelativeDocumentMoniker": "wdfvpu\\Registers.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.c",
+              "RelativeToolTip": "wdfvpu\\Registers.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T11:53:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.c",
+              "RelativeDocumentMoniker": "wdfvpu\\Device.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.c",
+              "RelativeToolTip": "wdfvpu\\Device.c",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAlwJQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T09:49:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.c",
+              "RelativeDocumentMoniker": "wdfvpu\\Driver.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.c",
+              "RelativeToolTip": "wdfvpu\\Driver.c",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T02:44:56.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Queue.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.c",
+              "RelativeDocumentMoniker": "wdfvpu\\Queue.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.c",
+              "RelativeToolTip": "wdfvpu\\Queue.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T02:44:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interrupt.c",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.c",
+              "RelativeDocumentMoniker": "wdfvpu\\Interrupt.c",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.c",
+              "RelativeToolTip": "wdfvpu\\Interrupt.c",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAawG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T11:33:51.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Driver.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Driver.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Driver.h",
+              "RelativeToolTip": "wdfvpu\\Driver.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T02:52:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Public.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Public.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Public.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Public.h",
+              "RelativeToolTip": "wdfvpu\\Public.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T02:46:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Interrupt.tmh",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ARM64\\Debug\\Interrupt.tmh",
+              "RelativeDocumentMoniker": "wdfvpu\\ARM64\\Debug\\Interrupt.tmh",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ARM64\\Debug\\Interrupt.tmh",
+              "RelativeToolTip": "wdfvpu\\ARM64\\Debug\\Interrupt.tmh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T11:40:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Queue.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Queue.h",
+              "RelativeToolTip": "wdfvpu\\Queue.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T12:41:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registers.tmh",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ARM64\\Debug\\Registers.tmh",
+              "RelativeDocumentMoniker": "wdfvpu\\ARM64\\Debug\\Registers.tmh",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ARM64\\Debug\\Registers.tmh",
+              "RelativeToolTip": "wdfvpu\\ARM64\\Debug\\Registers.tmh",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAMwFgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T11:53:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Device.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Device.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Device.h",
+              "RelativeToolTip": "wdfvpu\\Device.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T06:08:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Interrupt.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Interrupt.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Interrupt.h",
+              "RelativeToolTip": "wdfvpu\\Interrupt.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T10:15:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registers.h",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.h",
+              "RelativeDocumentMoniker": "wdfvpu\\Registers.h",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\Registers.h",
+              "RelativeToolTip": "wdfvpu\\Registers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T10:25:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "wmistr.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\wmistr.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\wmistr.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\wmistr.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared\\wmistr.h",
+              "ViewState": "AgIAANkAAAAAAAAAAAAUwOEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T10:36:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wdfvpu.inf",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\wdfvpu.inf",
+              "RelativeDocumentMoniker": "wdfvpu\\wdfvpu.inf",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\wdfvpu.inf",
+              "RelativeToolTip": "wdfvpu\\wdfvpu.inf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002933|",
+              "WhenOpened": "2025-07-01T02:46:32.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ReadMe.txt",
+              "RelativeDocumentMoniker": "wdfvpu\\ReadMe.txt",
+              "ToolTip": "C:\\D_Drive\\00_VPU\\WDF\\wdfvpu\\wdfvpu\\ReadMe.txt",
+              "RelativeToolTip": "wdfvpu\\ReadMe.txt",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-01T02:46:19.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
